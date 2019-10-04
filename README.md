@@ -1,2 +1,4 @@
 # fullstackopen
-Fullstackopen tehtävät 
+
+Tänne tulee Fullstackopen-kurssin https://fullstackopen.com tehtävät
+
